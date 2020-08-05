@@ -1,0 +1,17 @@
+header {
+  background: pink;
+}
+section {
+  background: grey;
+  border: dashed 1px #000;
+}
+aside{
+  background: grey;
+  border: dashed 1px #000;
+}
+article {
+  border: dashed 1px red;
+}
+footer {
+  background: lightgreen;
+}
