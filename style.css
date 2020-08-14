@@ -1,11 +1,35 @@
-header {
+.header {
   background: pink;
+  text-align: center;
+  border: dashed 2px red;
 }
-section {
+.main-blok {
   background: grey;
-  border: dashed 1px #000;
+  border: dashed 1px black;
 }
-aside{
+
+.main-blok__paragraph{
+  font-weight: bold;
+}
+
+.side-blok{
+  background: grey;
+  border: dashed 1px black;
+  font-style: italic;
+}
+
+.secondary-blok{
+  background: grey;
+  border: dashed 1px red;
+}
+
+.footer{
+  background: lightgreen;
+  border: dashed 2px green;
+  text-align: center;
+}
+
+/* aside{
   background: grey;
   border: dashed 1px #000;
 }
@@ -14,4 +38,4 @@ article {
 }
 footer {
   background: lightgreen;
-}
+}*/
