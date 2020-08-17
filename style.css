@@ -1,8 +1,17 @@
+body{
+  font-family: 'Philosopher', sans-serif;
+}
+
 .header {
   background: pink;
   text-align: center;
   border: dashed 2px red;
 }
+
+.header__title{
+  font-family: 'Pangolin', cursive;
+}
+
 .main-blok {
   background: grey;
   border: dashed 1px black;
